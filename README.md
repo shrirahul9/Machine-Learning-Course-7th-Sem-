@@ -196,7 +196,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 E-mail - shrirahul06@gmail.com
 
-Project Link: https://github.com/shrirahul9/Machine-Learning-Course-7th-Sem
+Project Link: https://github.com/shrirahul9/Machine-Learning-Course-7th-Sem-
 ---
 
 ⭐ **Star this repo if you found it helpful!**
