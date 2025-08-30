@@ -305,16 +305,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 📞 Contact
-
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
-
-**Project Link**: [https://github.com/yourusername/house-price-prediction](https://github.com/yourusername/house-price-prediction)
-
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
----
-
 ## 🙏 Acknowledgments
 
 - [Kaggle](https://www.kaggle.com/) for providing the dataset
@@ -325,27 +315,3 @@ SOFTWARE.
 
 ---
 
-## 📚 Additional Resources
-
-### Learning Materials
-- [Linear Regression Theory](https://en.wikipedia.org/wiki/Linear_regression)
-- [scikit-learn Documentation](https://scikit-learn.org/stable/modules/linear_model.html)
-- [Machine Learning Course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-
-### Similar Projects
-- [Boston Housing Price Prediction](https://github.com/example/boston-housing)
-- [California Housing Analysis](https://github.com/example/california-housing)
-- [Real Estate ML Models](https://github.com/example/real-estate-ml)
-
-### Data Science Tools
-- [Jupyter Lab](https://jupyterlab.readthedocs.io/)
-- [Google Colab](https://colab.research.google.com/)
-- [Kaggle Kernels](https://www.kaggle.com/kernels)
-
----
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/house-price-prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/house-price-prediction?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/house-price-prediction?style=social)
