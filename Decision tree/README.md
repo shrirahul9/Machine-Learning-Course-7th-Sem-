@@ -215,8 +215,3 @@ git push origin feature/your-feature-name
 
 ---
 
-⭐ **Found this helpful?** Give it a star and share with others learning machine learning!
-
-🐛 **Found a bug?** Please open an issue with details and steps to reproduce.
-
-💡 **Have suggestions?** Open an issue or submit a pull request!
